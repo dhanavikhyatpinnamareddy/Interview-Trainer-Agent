@@ -37,15 +37,15 @@ User Input → Message History → IBM watsonx.ai → Chat Output
 
 ### Python Interview Demo
 
-![Python Demo](03_python_interview_demo.png)
+![Python Demo](04_Python_Interview_Demo.png)
 
 ### Java Roadmap Demo
 
-![Java Demo](04_java_roadmap_demo.png)
+![Java Demo](05_Java_Roadmap_Demo.png)
 
 ### Restricted Query Demo
 
-![Restricted Demo](05_restricted_query_demo.png)
+![Restricted Demo](06_Restricted_Query_Demo.png)
 
 ## Author
 
