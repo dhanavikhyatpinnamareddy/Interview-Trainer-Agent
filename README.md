@@ -19,7 +19,7 @@ The agent is restricted to interview preparation and career-related guidance.
 
 - Langflow
 - IBM watsonx.ai
-- Meta Llama 3 70B Instruct
+- IBM Granite 8B Code Instruct
 - GitHub
 
 ## Workflow
